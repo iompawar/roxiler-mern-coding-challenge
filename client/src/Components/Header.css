@@ -1,0 +1,19 @@
+.Header-comp{
+    padding: 10px 20px;
+}
+
+.Header-comp div{
+    display: flex;
+    gap: 20px;
+}
+
+.navlink{
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+}
+
+
+.active{
+    border-bottom: 1px solid royalblue;
+}

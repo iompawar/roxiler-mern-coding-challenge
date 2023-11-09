@@ -1,0 +1,9 @@
+.Dashboard-comp{
+    width: auto;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,27 @@
+.Statistics-comp{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+
+
+.statistics-month-picker-div{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px 10px;
+    border: 1px solid #34495E;
+    border-radius: 5px;
+    background-color: #34495E;
+}
+
+.statistics-month-picker{
+    margin-left: 20px;
+}
+.statistics-div{
+    width: 600px;
+    margin: 20px;
+}
